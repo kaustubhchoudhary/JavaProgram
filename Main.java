@@ -6,5 +6,6 @@ public class Main {
 		int total = n1 + n2;
 		
 		System.out.println("\n Total : " + total);
+		System.out.println("\n Average : " + total/3.0);
 	}
 }
