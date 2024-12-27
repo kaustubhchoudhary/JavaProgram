@@ -8,5 +8,6 @@ public class Main {
 		System.out.println("\n Total : " + total);
 		System.out.println("\n Average : " + total/3.0);
 		System.out.println("\n No : " + 3);
+		System.out.println("\n * : " + (total * 3));
 	}
 }
